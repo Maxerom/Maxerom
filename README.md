@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maxerom.
-- I just graduated in Electronics Engineering.
+- I just graduated in Electronics Engineering from Ghulam Ishaq Khan Institute (GIKI).
 - I have done amazing projects on Micro-controllers, ML and DS.
 - Give me time to organize so that I can upload my projects for everyone.
 - 👀 I’m interested in Machine Learning.
