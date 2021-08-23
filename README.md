@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Maxerom.
-- 👀 I’m interested in Artificial Intelligence.
+- I just graduated in Electronics Engineering.
+- I have done amazing projects on Micro-controllers, ML and DS.
+- Give me time to organize so that I can upload my projects for everyone.
+- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Machine Learning and Data Science.
 
 <!---
