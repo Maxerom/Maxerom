@@ -44,7 +44,7 @@ Property | Data
 ---
   *Developer Story*
 ---
-I am 25 years of age and I am living in Multan since 2017 and this is where I completed my higher studies. I did my Bachelors in Electronics from GIKI Topi, Swabi. I have always been passionate about Computer Science and Programming and during this program I realized how passionate I was towards AI as well. I started working on Machine Learning projects. And during my sixth semester I considered working on AI for my Final Year Project (FYP), because I had some prior knowledge of it through self-learning.
+I am 25 years of age and I am living in Multan since 2017 and this is where I completed my higher studies. I did my Bachelors in Electronics from GIKI Topi, Swabi. I have always been passionate about Computer Science and Programming and during this program I realized how passionate I was towards AI as well. I started working on Machine Learning projects. And during my sixth semester I started working on AI for my Final Year Project (FYP) which was an autonomous farming robot with computer vision capabilities, because I had some prior knowledge of it through self-learning. and this project got me a Second Position in the whole faculty. This was the starting point for me to start this journey and make it into a career.
 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
